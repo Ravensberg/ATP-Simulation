@@ -6,7 +6,7 @@ from tournament import Tournament, load_calendar
 
 @dataclass
 class AtpTour:
-    current_season: int = 2041
+    current_season: int = 2019
     current_week: int = 1
     all_players: list[Player] = field(default_factory=list)
     all_tournaments: list[Tournament] = field(default_factory=list)
@@ -64,7 +64,6 @@ class AtpTour:
             self.current_week += 1
 
         self.print_top_x_players(amount=20)
-        self.print_me()
         # Go back to week 52
         self.save_all_players(week_buffer=-1)
         #self.reset_players_for_new_season()
