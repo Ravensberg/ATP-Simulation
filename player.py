@@ -81,8 +81,7 @@ class Player:
 
         # Grand Slams and mandatory ATP 1000 - Record points and check for dropped points
         if tournament_name in top_tournaments_singles and str(week) in self.top_tournaments:
-            if self.name == 'Thibault Jaray' and self.top_tournaments[str(week)][0] > 0:
-                print(f'dropped {self.top_tournaments[str(week)][0]} points from {self.top_tournaments[str(week)][1]} - Week {week}')
+        
             self.top_tournaments[str(week)] = (0, self.top_tournaments[str(week)][1])
             points_dropped = True
         if tournament_name in top_tournaments_singles:
@@ -93,24 +92,17 @@ class Player:
         for w in self.top_tournaments:
             singles_points.append(self.top_tournaments[w][0])
 
-        if gain and self.name == 'Thibault Jaray' :
-            print(f'GAINED {points} points from {tournament_name} - total {sum(singles_points)}')
         # for w in self.top_tournaments:
         #    print(self.top_tournaments[w][0])
         # print('...........')
 
         # Other tournaments - Record points and check for dropped points
         if not points_dropped and not tournament_accounted_for:
-            if self.name == 'Thibault Jaray' and self.last_52_weeks[str(week)][0] > 0:
-                print(
-                    f'dropped {self.last_52_weeks[str(week)][0]} points from {self.last_52_weeks[str(week)][1]} - Week {week}')
             self.last_52_weeks[str(week)] = (0, 'tournament name')
             points_dropped = True
 
         if not tournament_accounted_for and tournament_name:
             self.last_52_weeks[str(week)] = (points, tournament_name)
-            if self.name == 'Thibault Jaray' and self.last_52_weeks[str(week)][0] > 0:
-                print(f'GAINED {points} points from {tournament_name} - Week {week}')
 
         for t in self.last_52_weeks:
             top_events_points.append(self.last_52_weeks[t][0])
