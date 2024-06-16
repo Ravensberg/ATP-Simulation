@@ -50,15 +50,6 @@ class AtpTour:
             #print(f'Other tournaments:  {p.last_52_weeks}')
         #print('-------------------------------------------')
 
-    def print_me(self):
-        for p in self.all_players:
-            if p.name == 'Thibault Jaray':
-                print(
-                    f'{p.atp_ranking}. {p.name}: {p.singles_race_points} points, {p.tournament_wins} titles. Record: {p.wins}-{p.losses} over {p.tournaments_played} tournaments played. ATP 1000 & Grand Slams wins: {p.atp_main_titles}')
-                #print(p.top_tournaments)
-                #print(p.last_52_weeks)
-        print('------------------------------------------------')
-
     def sort_tournaments(self):
         # Sort by Week, Tour level, Tournament level, Alphabetical
         self.all_tournaments = sorted(self.all_tournaments,
