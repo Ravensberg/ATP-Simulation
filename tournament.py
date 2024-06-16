@@ -86,16 +86,8 @@ def atp_tour_draw(players: list[Player], draw_size: int, tournament_level: str, 
     for p in players:
         if min_rank <= p.atp_ranking <= max_rank and not p.current_tournament:
             available_players.append(p.name)
-            #if p.name == 'Thibault Jaray':
-            #    print(f'{p.atp_ranking}. {p.name} DIRECT')
         if max_rank < p.atp_ranking <= max_rank + 500 and not p.current_tournament:
             wildcards.append(p.name)
-            #if p.name == 'Thibault Jaray':
-            #    print(f'{p.atp_ranking}. {p.name} WILD-CARD')
-        #elif p.current_tournament:
-            #if p.name == 'Thibault Jaray':
-            #    print(f'{p.atp_ranking}. {p.name} busy at {p.current_tournament}')
-            #pass
 
     acceptances = min(len(available_players), direct_acceptance)
     #if len(available_players) < acceptances:
@@ -589,8 +581,7 @@ class Tournament:
             player_b.initialize_stats(surface=self.surface)
 
             winner, loser = self.simulate_match(player_a=player_a, player_b=player_b)
-            if winner == 'Thibault Jaray' or loser == 'Thibault Jaray':
-                print(f'QUALI {self.round_of_play} of {self.name}')
+           
             self.winners.append(winner)
             self.award_points_quali(player_name=loser)
             i += 2
@@ -612,9 +603,7 @@ class Tournament:
             loser_name = player_b.name
 
         player_a_stats, player_b_stats = sim_engine.player_a_stats, sim_engine.player_b_stats
-        if winner_name == 'Thibault Jaray' or loser_name == 'Thibault Jaray':
-            print(f'{self.round_of_play} of {self.name}// {winner_name} beats {loser_name} over {sum(sim_engine.sets_score)} sets || {sim_engine.match_score}')
-
+        
         return winner_name, loser_name
 
     def award_points_quali(self, player_name: str, tournament_winner: bool = False):
@@ -639,8 +628,8 @@ class Tournament:
             player.losses += 1
             player.wins += max(0, self.round_of_play - 1)
 
-            if player_name == 'Thibault Jaray':
-                p = self.pick_player_from_list(player_name='Thibault Jaray')
+            if player_name == 'Roger Federer':
+                p = self.pick_player_from_list(player_name='Roger Federer')
                 print(f'{self.name}: {self.tour_level} - {self.tournament_level}. Round# {self.round_of_play}\n'
                       f'{p.atp_ranking}. {p.name}: {p.singles_race_points} points, {p.tournament_wins} titles. Record: {p.wins}-{p.losses} over {p.tournaments_played} tournaments played.\n'
                       f'.....................')
@@ -652,8 +641,8 @@ class Tournament:
             #player.increase_atp_points(atp_points)
             player.record_tournament_points_for_singles_race(tournament_name=self.name, points=atp_points, week=self.week)
 
-            if player_name == 'Thibault Jaray':
-                p = self.pick_player_from_list(player_name='Thibault Jaray')
+            if player_name == 'Roger Federer':
+                p = self.pick_player_from_list(player_name='Roger Federer')
                 print(f'WON A TOURNAMENT!!! {self.name}: {self.tour_level} - {self.tournament_level}. Round# {self.round_of_play}\n'
                       f'{p.atp_ranking}. {p.name}: {p.singles_race_points} points, {p.tournament_wins} titles. Record: {p.wins}-{p.losses} over {p.tournaments_played} tournaments played.\n'
                       f'.....................')
