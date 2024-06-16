@@ -1,0 +1,4110 @@
+{
+  "0001": {
+    "name": "Brisbane",
+    "week": 1,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0002": {
+    "name": "Doha",
+    "week": 1,
+    "surface": "Hard",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0003": {
+    "name": "Pune",
+    "week": 1,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0004": {
+    "name": "Noumea",
+    "week": 1,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0005": {
+    "name": "Playford",
+    "week": 1,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0006": {
+    "name": "Orlando",
+    "week": 1,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+      3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0007": {
+    "name": "Sydney",
+    "week": 2,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0008": {
+    "name": "Auckland",
+    "week": 2,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0009": {
+    "name": "Canberra",
+    "week": 2,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+      3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0010": {
+    "name": "Columbus",
+    "week": 2,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+      3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0011": {
+    "name": "Da Nang",
+    "week": 2,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+      3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0012": {
+    "name": "Australian Open",
+    "week": 3,
+    "surface": "Hard",
+    "main_draw_size": 128,
+    "quali_draw_size": 128,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "GRAND_SLAM",
+    "cutoff": 1,
+    "points_distribution": [
+      10,
+      45,
+      90,
+      180,
+      360,
+      720,
+      1200,
+      2000
+    ]
+  },
+    "0013": {
+    "name": "Koblenz",
+    "week": 3,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+      3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0014": {
+    "name": "Newport Beach",
+    "week": 4,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0015": {
+    "name": "Rennes",
+    "week": 4,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0016": {
+    "name": "Burnie",
+    "week": 4,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+      3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0017": {
+    "name": "Punta Del Este",
+    "week": 4,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+      3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0018": {
+    "name": "Cleveland",
+    "week": 5,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0019": {
+    "name": "Launceston",
+    "week": 5,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0020": {
+    "name": "Quimper",
+    "week": 5,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0021": {
+    "name": "Montpellier",
+    "week": 5,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0022": {
+    "name": "Cordoba",
+    "week": 5,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0023": {
+    "name": "Sofia",
+    "week": 5,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0024": {
+    "name": "Dallas",
+    "week": 6,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_110",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      9,
+      20,
+      40,
+      65,
+      110
+    ]
+  },
+    "0025": {
+    "name": "Budapest",
+    "week": 6,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0026": {
+    "name": "Chennai",
+    "week": 6,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0027": {
+    "name": "Cherbourg",
+    "week": 7,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0028": {
+    "name": "Bangkok",
+    "week": 7,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0029": {
+    "name": "Bergamo",
+    "week": 8,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0030": {
+    "name": "Morelos",
+    "week": 8,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0031": {
+    "name": "Bangkok",
+    "week": 8,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0032": {
+    "name": "Indian Wells",
+    "week": 9,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0033": {
+    "name": "Pau",
+    "week": 9,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0034": {
+    "name": "Yokohama",
+    "week": 9,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0035": {
+    "name": "Zhuhai",
+    "week": 10,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0036": {
+    "name": "Santiago",
+    "week": 10,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0037": {
+    "name": "Phoenix",
+    "week": 11,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0038": {
+    "name": "Shenzen",
+    "week": 9,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0039": {
+    "name": "Drummonvdille",
+    "week": 11,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0040": {
+    "name": "Lille",
+    "week": 12,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0041": {
+    "name": "Zhangjiagang",
+    "week": 12,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0042": {
+    "name": "Guadalajara",
+    "week": 13,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0043": {
+    "name": "St-Brieuc",
+    "week": 13,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0044": {
+    "name": "Marbella",
+    "week": 13,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0045": {
+    "name": "Rotterdam",
+    "week": 6,
+    "surface": "Hard",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+    "0046": {
+    "name": "Buenos Aires",
+    "week": 6,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+       0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0047": {
+    "name": "New York",
+    "week": 6,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+       0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0048": {
+    "name": "Rio de Janeiro",
+    "week": 7,
+    "surface": "Clay",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+    "0049": {
+    "name": "Delray Beach",
+    "week": 7,
+    "surface": "Hard",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0050": {
+    "name": "Marseille",
+    "week": 7,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+       0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0051": {
+    "name": "Acapulco",
+    "week": 8,
+    "surface": "Hard",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+    "0052": {
+    "name": "Dubai",
+    "week": 8,
+    "surface": "Hard",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+    "0053": {
+    "name": "Sao Paulo",
+    "week": 8,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+     0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+    "0054": {
+    "name": "Indian Wells",
+    "week": 10,
+    "surface": "Hard",
+    "main_draw_size": 96,
+    "quali_draw_size": 48,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_1000",
+    "cutoff": 1,
+    "points_distribution": [
+       10,
+	   25,
+	   45,
+	   90,
+	   180,
+	   360,
+	   600,
+	   1000
+    ]
+  },
+    "0055": {
+    "name": "Miami",
+    "week": 12,
+    "surface": "Hard",
+    "main_draw_size": 96,
+    "quali_draw_size": 48,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_1000",
+    "cutoff": 1,
+    "points_distribution": [
+       10,
+	   25,
+	   45,
+	   90,
+	   180,
+	   360,
+	   600,
+	   1000
+    ]
+  },
+    "0056": {
+    "name": "Monterrey",
+    "week": 14,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0057": {
+    "name": "Sophia Antipolis",
+    "week": 14,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+   "0058": {
+    "name": "Alicante",
+    "week": 14,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0059": {
+    "name": "Manta",
+    "week": 14,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0060": {
+    "name": "Taipei",
+    "week": 15,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0061": {
+    "name": "Barletta",
+    "week": 15,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0062": {
+    "name": "Murcia",
+    "week": 15,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0063": {
+    "name": "Anning",
+    "week": 16,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0063": {
+    "name": "Sarasota",
+    "week": 16,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_100",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      18,
+      35,
+      60,
+      100
+    ]
+  },
+    "0064": {
+    "name": "Tunis",
+    "week": 16,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0065": {
+    "name": "San Luis Potosi",
+    "week": 16,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0064": {
+    "name": "Tunis",
+    "week": 16,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0065": {
+    "name": "San Luis Potosi",
+    "week": 16,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0066": {
+    "name": "Leon",
+    "week": 17,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0067": {
+    "name": "Tallahassee",
+    "week": 17,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0068": {
+    "name": "Francavilla",
+    "week": 17,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0069": {
+    "name": "Nanchang",
+    "week": 17,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0070": {
+    "name": "Seoul",
+    "week": 18,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_100",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      18,
+      35,
+      60,
+      100
+    ]
+  },
+   "0071": {
+    "name": "Savannah",
+    "week": 18,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0072": {
+    "name": "Ostrava",
+    "week": 18,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0073": {
+    "name": "Bordeaux",
+    "week": 18,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_110",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      9,
+      20,
+      40,
+      65,
+      110
+    ]
+  },
+    "0074": {
+    "name": "Puerto Vallarta",
+    "week": 18,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_110",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      9,
+      20,
+      40,
+      65,
+      110
+    ]
+  },
+    "0075": {
+    "name": "Rome",
+    "week": 19,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0076": {
+    "name": "Aix en Provence",
+    "week": 19,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0077": {
+    "name": "Braga",
+    "week": 19,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0078": {
+    "name": "Busan",
+    "week": 19,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0079": {
+    "name": "Shymkent",
+    "week": 19,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0080": {
+    "name": "Heilbronn",
+    "week": 20,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_100",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      18,
+      35,
+      60,
+      100
+    ]
+  },
+    "0081": {
+    "name": "Lisbon",
+    "week": 20,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0082": {
+    "name": "Gwangju",
+    "week": 20,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0083": {
+    "name": "Samarkand",
+    "week": 20,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0084": {
+    "name": "Jerusalem",
+    "week": 21,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0085": {
+    "name": "Vicenza",
+    "week": 22,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0086": {
+    "name": "Surbiton",
+    "week": 23,
+    "surface": "Grass",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0087": {
+    "name": "Almaty",
+    "week": 23,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0088": {
+    "name": "Prostejov",
+    "week": 23,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_100",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      18,
+      35,
+      60,
+      100
+    ]
+  },
+    "0089": {
+    "name": "Poznan",
+    "week": 23,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0090": {
+    "name": "Little Rock",
+    "week": 23,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0091": {
+    "name": "Lyon",
+    "week": 24,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_100",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      18,
+      35,
+      60,
+      100
+    ]
+  },
+    "0092": {
+    "name": "Nottingham",
+    "week": 24,
+    "surface": "Grass",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0093": {
+    "name": "Shymkent",
+    "week": 24,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0094": {
+    "name": "Columbus",
+    "week": 24,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+   "0095": {
+    "name": "Ilkley",
+    "week": 25,
+    "surface": "Grass",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0096": {
+    "name": "Fergana",
+    "week": 25,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0097": {
+    "name": "Bratislava",
+    "week": 25,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0098": {
+    "name": "Blois",
+    "week": 25,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0099": {
+    "name": "Parma",
+    "week": 25,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0100": {
+    "name": "Milan",
+    "week": 26,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0101": {
+    "name": "Ludwigshafen",
+    "week": 27,
+    "surface": "Clay",
+    "main_draw_size": 56,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0102": {
+    "name": "Recanati",
+    "week": 27,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0103": {
+    "name": "Braunschweig",
+    "week": 28,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0104": {
+    "name": "Winnetka",
+    "week": 28,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0105": {
+    "name": "Perugia",
+    "week": 28,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0106": {
+    "name": "Winnipeg",
+    "week": 28,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0107": {
+    "name": "Nur-Sultan",
+    "week": 29,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_110",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      9,
+      20,
+      40,
+      65,
+      110
+    ]
+  },
+    "0108": {
+    "name": "San Benedetto",
+    "week": 29,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0109": {
+    "name": "Amersfoort",
+    "week": 29,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0110": {
+    "name": "Gatineau",
+    "week": 29,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0111": {
+    "name": "Granby",
+    "week": 30,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0112": {
+    "name": "Binghamton",
+    "week": 30,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0113": {
+    "name": "Prague",
+    "week": 30,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0114": {
+    "name": "Tampere",
+    "week": 30,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0115": {
+    "name": "Liberec",
+    "week": 31,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0116": {
+    "name": "Chengdu",
+    "week": 31,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_110",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      9,
+      20,
+      40,
+      65,
+      110
+    ]
+  },
+    "0117": {
+    "name": "Lexington",
+    "week": 31,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0118": {
+    "name": "Segovia",
+    "week": 31,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0119": {
+    "name": "Sopot",
+    "week": 31,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_100",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      18,
+      35,
+      60,
+      100
+    ]
+  },
+    "0120": {
+    "name": "Augsburg",
+    "week": 32,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0121": {
+    "name": "Aptos",
+    "week": 32,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0122": {
+    "name": "Manerbio",
+    "week": 32,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0123": {
+    "name": "Yokkaichi",
+    "week": 32,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0124": {
+    "name": "Cordenons",
+    "week": 33,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0125": {
+    "name": "Meerbusch",
+    "week": 33,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0126": {
+    "name": "Vancouver",
+    "week": 33,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_100",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      18,
+      35,
+      60,
+      100
+    ]
+  },
+    "0127": {
+    "name": "Portoroz",
+    "week": 33,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0128": {
+    "name": "L'Aquila",
+    "week": 34,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0129": {
+    "name": "Baotou",
+    "week": 35,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0130": {
+    "name": "Como",
+    "week": 35,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0131": {
+    "name": "Mallorca",
+    "week": 35,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0132": {
+    "name": "Cassis",
+    "week": 36,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0133": {
+    "name": "New Haven",
+    "week": 36,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+	"0134": {
+    "name": "Jinann",
+    "week": 36,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+	"0135": {
+    "name": "Genoa",
+    "week": 36,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+	"0136": {
+    "name": "Szczecin",
+    "week": 37,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+	"0137": {
+    "name": "Istanbul",
+    "week": 37,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+  	"0138": {
+    "name": "Seville",
+    "week": 37,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+  	"0139": {
+    "name": "Shanghai",
+    "week": 37,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0140": {
+    "name": "Banja Luka",
+    "week": 37,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0141": {
+    "name": "Cary",
+    "week": 37,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+  	"0142": {
+    "name": "Taiwan",
+    "week": 38,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0143": {
+    "name": "Columbus",
+    "week": 38,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0144": {
+    "name": "Biella",
+    "week": 38,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0145": {
+    "name": "Glasgow",
+    "week": 38,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0146": {
+    "name": "Sibiu",
+    "week": 38,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0149": {
+    "name": "Orleans",
+    "week": 39,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0150": {
+    "name": "Tiburon",
+    "week": 39,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_100",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      18,
+      35,
+      60,
+      100
+    ]
+  },
+    "0151": {
+    "name": "Florence",
+    "week": 39,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0152": {
+    "name": "Buenos Aires",
+    "week": 39,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0153": {
+    "name": "Nur-Sultan",
+    "week": 40,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0154": {
+    "name": "Campinas",
+    "week": 40,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0155": {
+    "name": "Barcelona",
+    "week": 40,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0156": {
+    "name": "Santo Domingo",
+    "week": 41,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+	"0157": {
+    "name": "Mouilleron-le-Captif",
+    "week": 41,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_100",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      18,
+      35,
+      60,
+      100
+    ]
+  },
+    "0158": {
+    "name": "Fairfield",
+    "week": 41,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_100",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      18,
+      35,
+      60,
+      100
+    ]
+  },
+    "0159": {
+    "name": "Ningbo",
+    "week": 42,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0160": {
+    "name": "Ismaning",
+    "week": 42,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_90",
+    "cutoff": 1,
+    "points_distribution": [
+      5,
+      8,
+      17,
+      33,
+      55,
+      90
+    ]
+  },
+    "0161": {
+    "name": "Las Vegas",
+    "week": 42,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0162": {
+    "name": "Brest",
+    "week": 43,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_100",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      8,
+      18,
+      35,
+      60,
+      100
+    ]
+  },
+    "0163": {
+    "name": "Traralgon",
+    "week": 43,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0164": {
+    "name": "Hamburg",
+    "week": 43,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0165": {
+    "name": "Lima",
+    "week": 43,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0166": {
+    "name": "Liuzhou",
+    "week": 43,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0167": {
+    "name": "Shenzen",
+    "week": 44,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_110",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      9,
+      20,
+      40,
+      65,
+      110
+    ]
+  },
+    "0168": {
+    "name": "Charlottesville",
+    "week": 44,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0169": {
+    "name": "Playford",
+    "week": 44,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0170": {
+    "name": "Eckental",
+    "week": 44,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0171": {
+    "name": "Guayaquil",
+    "week": 44,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0172": {
+    "name": "Bratislava",
+    "week": 45,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_110",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      9,
+      20,
+      40,
+      65,
+      110
+    ]
+  },
+    "0173": {
+    "name": "Knoxville",
+    "week": 45,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0174": {
+    "name": "Kobe",
+    "week": 45,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0175": {
+    "name": "Montevideo",
+    "week": 45,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0176": {
+    "name": "Houston",
+    "week": 46,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_125",
+    "cutoff": 1,
+    "points_distribution": [
+	  5,
+      10,
+      25,
+      45,
+      75,
+      125
+    ]
+  },
+    "0177": {
+    "name": "Champaign",
+    "week": 46,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0178": {
+    "name": "Helsinki",
+    "week": 46,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0179": {
+    "name": "Ortisei",
+    "week": 46,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0180": {
+    "name": "Pune",
+    "week": 46,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+    "0181": {
+    "name": "Maia",
+    "week": 46,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "CHALLENGER",
+    "tournament_level": "CHALLENGER_80",
+    "cutoff": 1,
+    "points_distribution": [
+	  3,
+      7,
+      15,
+      29,
+      48,
+      80
+    ]
+  },
+  "0182": {
+    "name": "Marrakech",
+    "week": 15,
+    "surface": "Clay",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+  "0183": {
+    "name": "Houston",
+    "week": 15,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+  "0184": {
+    "name": "Budapest",
+    "week": 17,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+  "0185": {
+    "name": "Estoril",
+    "week": 18,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+  "0186": {
+    "name": "Munich",
+    "week": 18,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+     0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0187": {
+    "name": "Geneva",
+    "week": 21,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0188": {
+    "name": "Lyon",
+    "week": 21,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+     0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0189": {
+    "name": "Stuttgart",
+    "week": 24,
+    "surface": "Grass",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+     0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0190": {
+    "name": "Hertogenbosch",
+    "week": 24,
+    "surface": "Grass",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0191": {
+    "name": "Antalya",
+    "week": 26,
+    "surface": "Grass",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+    0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0192": {
+    "name": "Eastbourne",
+    "week": 26,
+    "surface": "Grass",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+     0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+  "0193": {
+    "name": "Bastad",
+    "week": 29,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0194": {
+    "name": "Umag",
+    "week": 29,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+     0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0195": {
+    "name": "Newport",
+    "week": 29,
+    "surface": "Grass",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+     0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0196": {
+    "name": "Atlanta",
+    "week": 30,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0197": {
+    "name": "Gstaad",
+    "week": 30,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+     0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+  "0198": {
+    "name": "Los Cabos",
+    "week": 31,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+    0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0199": {
+    "name": "Kitzbühel",
+    "week": 31,
+    "surface": "Clay",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+     0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0200": {
+    "name": "Winston-Salem",
+    "week": 34,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+	  0,
+	  10,
+      20,
+      45,
+      90,
+      150,
+      250
+    ]
+  },
+   "0201": {
+    "name": "St Petersburg",
+    "week": 38,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+  "0202": {
+    "name": "Metz",
+    "week": 38,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+    0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0203": {
+    "name": "Chengdu",
+    "week": 39,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+     0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+  "0204": {
+    "name": "Zhuhai",
+    "week": 39,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0205": {
+    "name": "Moscow",
+    "week": 42,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+     0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+  "0206": {
+    "name": "Antwerp",
+    "week": 42,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0207": {
+    "name": "Stockholm",
+    "week": 42,
+    "surface": "Hard",
+    "main_draw_size": 28,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_250",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+	  90,
+	  150,
+	  250
+    ]
+  },
+   "0208": {
+    "name": "Barcelona",
+    "week": 17,
+    "surface": "Clay",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+      0,
+	  20,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+   "0209": {
+    "name": "Halle",
+    "week": 25,
+    "surface": "Grass",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+	  20,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+   "0210": {
+    "name": "London",
+    "week": 25,
+    "surface": "Grass",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+	  20,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+  "0211": {
+    "name": "Hamburg",
+    "week": 30,
+    "surface": "Clay",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+	  20,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+   "0212": {
+    "name": "Washington D.C.",
+    "week": 31,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+	  0,
+	  20,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+  "0213": {
+    "name": "Beijing",
+    "week": 40,
+    "surface": "Hard",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+	  20,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+  "0214": {
+    "name": "Tokyo",
+    "week": 40,
+    "surface": "Hard",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+	  20,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+  "0215": {
+    "name": "Vienna",
+    "week": 43,
+    "surface": "Hard",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+	  20,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+  "0216": {
+    "name": "Basel",
+    "week": 43,
+    "surface": "Hard",
+    "main_draw_size": 32,
+    "quali_draw_size": 16,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_500",
+    "cutoff": 1,
+    "points_distribution": [
+	  20,
+	  45,
+      90,
+      180,
+      300,
+      500
+    ]
+  },
+  "0217": {
+    "name": "Monte-Carlo",
+    "week": 16,
+    "surface": "Clay",
+    "main_draw_size": 56,
+    "quali_draw_size": 28,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_1000",
+    "cutoff": 1,
+    "points_distribution": [
+       10,
+	   45,
+	   90,
+	   180,
+	   360,
+	   600,
+	   1000
+    ]
+  },
+  "0218": {
+    "name": "Madrid",
+    "week": 19,
+    "surface": "Clay",
+    "main_draw_size": 56,
+    "quali_draw_size": 28,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_1000",
+    "cutoff": 1,
+    "points_distribution": [
+       10,
+	   45,
+	   90,
+	   180,
+	   360,
+	   600,
+	   1000
+    ]
+  },
+  "0219": {
+    "name": "Rome",
+    "week": 20,
+    "surface": "Clay",
+    "main_draw_size": 56,
+    "quali_draw_size": 28,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_1000",
+    "cutoff": 1,
+    "points_distribution": [
+       10,
+	   45,
+	   90,
+	   180,
+	   360,
+	   600,
+	   1000
+    ]
+  },
+  "0220": {
+    "name": "Montreal",
+    "week": 32,
+    "surface": "Hard",
+    "main_draw_size": 56,
+    "quali_draw_size": 28,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_1000",
+    "cutoff": 1,
+    "points_distribution": [
+       10,
+	   45,
+	   90,
+	   180,
+	   360,
+	   600,
+	   1000
+    ]
+  },
+  "0221": {
+    "name": "Cincinnati",
+    "week": 33,
+    "surface": "Hard",
+    "main_draw_size": 56,
+    "quali_draw_size": 28,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_1000",
+    "cutoff": 1,
+    "points_distribution": [
+       10,
+	   45,
+	   90,
+	   180,
+	   360,
+	   600,
+	   1000
+    ]
+  },
+  "0222": {
+    "name": "Shanghai",
+    "week": 41,
+    "surface": "Hard",
+    "main_draw_size": 56,
+    "quali_draw_size": 28,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_1000",
+    "cutoff": 1,
+    "points_distribution": [
+       10,
+	   45,
+	   90,
+	   180,
+	   360,
+	   600,
+	   1000
+    ]
+  },
+  "0223": {
+    "name": "Paris",
+    "week": 44,
+    "surface": "Hard",
+    "main_draw_size": 48,
+    "quali_draw_size": 28,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "ATP_1000",
+    "cutoff": 1,
+    "points_distribution": [
+       10,
+	   45,
+	   90,
+	   180,
+	   360,
+	   600,
+	   1000
+    ]
+  },
+   "0224": {
+    "name": "Roland Garros",
+    "week": 22,
+    "surface": "Clay",
+    "main_draw_size": 128,
+    "quali_draw_size": 128,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "GRAND_SLAM",
+    "cutoff": 1,
+    "points_distribution": [
+      10,
+      45,
+      90,
+      180,
+      360,
+      720,
+      1200,
+      2000
+    ]
+  },
+  "0225": {
+    "name": "Wimbledon",
+    "week": 27,
+    "surface": "Grass",
+    "main_draw_size": 128,
+    "quali_draw_size": 128,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "GRAND_SLAM",
+    "cutoff": 1,
+    "points_distribution": [
+      10,
+      45,
+      90,
+      180,
+      360,
+      720,
+      1200,
+      2000
+    ]
+  },
+  "0226": {
+    "name": "US Open",
+    "week": 35,
+    "surface": "Hard",
+    "main_draw_size": 128,
+    "quali_draw_size": 128,
+    "tour_level": "ATP_TOUR",
+    "tournament_level": "GRAND_SLAM",
+    "cutoff": 1,
+    "points_distribution": [
+      10,
+      45,
+      90,
+      180,
+      360,
+      720,
+      1200,
+      2000
+    ]
+  }
+}
